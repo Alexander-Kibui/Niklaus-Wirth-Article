@@ -1,0 +1,35 @@
+body {
+	background:red;
+
+
+}
+h1 {
+	font-family: cursive;
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
+img {
+	width:100%;
+	display: inline-block;
+}
+h3 {
+	font-size: 25px;
+	text-align: center;
+}
+div#education {
+	box-shadow: 10px 10px 20px black;
+	padding:10px;
+	margin:10px;
+	margin-top: 15px;
+	text-align: center;
+}
+div#awards {
+	color:yellow;
+	font-family: initial;
+
+}
+div#law {
+	font-style: italic;
+	color:darkslategrey;
+	font-size: 20px;
+}
